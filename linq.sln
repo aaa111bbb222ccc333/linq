@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "linq", "linq\linq.csproj", "{7267315C-DC3E-4D33-959F-5603F95BB0DB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarLibrary", "CarLibrary\CarLibrary.csproj", "{63EEBFCF-379F-49FA-AC57-B8FED9057E5B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7267315C-DC3E-4D33-959F-5603F95BB0DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7267315C-DC3E-4D33-959F-5603F95BB0DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7267315C-DC3E-4D33-959F-5603F95BB0DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7267315C-DC3E-4D33-959F-5603F95BB0DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63EEBFCF-379F-49FA-AC57-B8FED9057E5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63EEBFCF-379F-49FA-AC57-B8FED9057E5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63EEBFCF-379F-49FA-AC57-B8FED9057E5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63EEBFCF-379F-49FA-AC57-B8FED9057E5B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0E688EB4-097B-4A8A-9981-FCE84ADA1D8F}
+	EndGlobalSection
+EndGlobal
